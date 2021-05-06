@@ -25,10 +25,10 @@ Faridabad, Haryana-121010</div>
 
 
 * #### RESPONSIBILITIES
-   * Securing access of customer’s system.
-   * Conferred with customers to determine nature of malfunctions.
-   * Analysing and troubleshooting.
-   * Established excellent sales ability and strong interpersonal skills with confident
+- [x] Securing access of customer’s system.
+- [x] Conferred with customers to determine nature of malfunctions.
+- [x] Analysing and troubleshooting.
+- [x] Established excellent sales ability and strong interpersonal skills with confident
 and persuasive approach.
 
 
@@ -39,8 +39,8 @@ and persuasive approach.
 
 
 * #### RESPONSIBILITIES
-   * Served customers in a friendly, efficient manner following outlined steps of service.
-   * Delivered exceptional level of service to each customer by listening to concerns and answering questions.
+- [x] Served customers in a friendly, efficient manner following outlined steps of service.
+- [x] Delivered exceptional level of service to each customer by listening to concerns and answering questions.
 
 
 ## 🎓EDUCATION AND TRAINING
@@ -60,9 +60,9 @@ Rajouri Garden, New Delhi- 110027
 
 ## ⚓ INTERESTS
 
-      *Reading
-      *Music
-      *Fitness
+  * 📘Reading
+  * 🎵Music
+  * :bicyclist:Fitness
       
       
 I hereby declare that the above-mentioned information is correct up to my knowledge and I
