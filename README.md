@@ -22,6 +22,8 @@ Faridabad, Haryana-121010</div>
 | Client | Job Profile | Tenure |
 | --- | --- | --- |
 |HP(Hewlett Packard)|Printer Support to American Region|August 2014 to August 2015|
+
+
 * #### RESPONSIBILITIES
    * Securing access of customer’s system.
    * Conferred with customers to determine nature of malfunctions.
@@ -31,9 +33,10 @@ and persuasive approach.
 
 
 ### * `Interglobe Aviation Ltd.`
-| Job profile | Department | Tenure |
+|   Job profile   |   Department   |   Tenure    |
 | ------ | ------ | - |
 |Customer Service Officer|Ground Operations|January 2018 to August 2018|
+
 
 * #### RESPONSIBILITIES
    * Served customers in a friendly, efficient manner following outlined steps of service.
@@ -60,12 +63,13 @@ Rajouri Garden, New Delhi- 110027
       *Reading
       *Music
       *Fitness
-
->
->
+      
+      
 I hereby declare that the above-mentioned information is correct up to my knowledge and I
 bear the responsibility for the correctness of the above-mentioned particulars.
->
+
+
 Place:
->
+
+
 Date:
