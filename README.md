@@ -15,7 +15,7 @@
 
 *******************
 <p>
-  <img width="300" align='right' src="https://github.com/shubhambhaskarr/shubhambhaskarr/blob/main/Education_chalk_board.jpg"></a>
+  <img width="300" align='right' src="https://github.com/shubhambhaskarr/shubhambhaskarr/blob/main/skills-1024x512.png"></a>
 </p>
 
 <p>
