@@ -18,7 +18,7 @@
   <img width="300" align='right' src="https://github.com/shubhambhaskarr/shubhambhaskarr/blob/main/skills-1024x512.png"></a>
 </p>
 
-* ## *Skills*
+* ## *Skills* 🎯
 - [x] Linux Basics & Troubleshooting
 - [x] Linux CLI, monitoring and logging
 - [x] Httpd configuration
@@ -35,7 +35,7 @@
 
 
   
-* ## *`Wipro Ltd.`*
+* ## *`Wipro Ltd.`* 💼
 | Client | Job Profile | Tenure |
 | --- | --- | --- |
 |HP(Hewlett Packard)|Printer Support to American Region|August 2014 to August 2015|
@@ -53,7 +53,7 @@ and persuasive approach.
 
 
 
-* ## *`Interglobe Aviation Ltd.`*
+* ## *`Interglobe Aviation Ltd.`* 💼
 |   Job profile   |   Department   |   Tenure    |
 | ------ | ------ | - |
 |Customer Service Officer|Ground Operations|January 2018 to August 2018|
@@ -69,7 +69,7 @@ and persuasive approach.
   <img width="300" align='right' src="https://github.com/shubhambhaskarr/shubhambhaskarr/blob/main/Education_chalk_board.jpg"></a>
 </p>
 
-## *🎓EDUCATION AND TRAINING*
+## *EDUCATION AND TRAINING* 🎓
 
 * ### `Baccalaureate in Computer Applications (BCA)`
 >
