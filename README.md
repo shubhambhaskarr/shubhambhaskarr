@@ -77,7 +77,7 @@ and persuasive approach.
 >
 >Kalka Institute of Research and Advanced Studies, Alaknanda, New Delhi- 110019
 
-* ### `Post-Graduation Diploma in Aviation, Hospitality and Travel Management`
+* ### `Post-Graduation Diploma in Aviation and Travel Management`
 >
 >April 2016 to April 2017
 >
