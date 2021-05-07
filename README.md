@@ -21,6 +21,10 @@ Faridabad, Haryana-121010</div>
 >
 >Enthusiastic individual eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Motivated to learn, grow and excel in IT Industry.
 
+<p>
+  <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+</p>
+
 
 ## 💼 EXPERIENCE
 
