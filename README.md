@@ -1,4 +1,4 @@
-<img height="250" width="2000" src="https://github.com/shubhambhaskarr/shubhambhaskarr/blob/main/linux.jpeg?raw=true">
+<img height="250" width="1000" src="https://github.com/shubhambhaskarr/shubhambhaskarr/blob/main/linpen.jpeg?raw=true">
 <p align='center'>
 <a href="https://mail.google.com/mail/mu/mp/139/#co"><img height="30" src="https://github.com/shubhambhaskarr/shubhambhaskarr/blob/main/gmaillogo.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/shubham_bhaskarr/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
@@ -7,7 +7,7 @@
 </p>
 
 
-## *Hey this is Shubham*
+## *Hey this is Shubham* :wave:
 
 <div align="right">:e-mail:shubham.bhaskar15@gmail.com</div>
 
@@ -70,12 +70,3 @@ Rajouri Garden, New Delhi- 110027
   * 🎵Music
   * :bicyclist:Fitness
       
-      
-I hereby declare that the above-mentioned information is correct up to my knowledge and I
-bear the responsibility for the correctness of the above-mentioned particulars.
-
-
-Place:
-
-
-Date:
