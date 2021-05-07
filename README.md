@@ -18,7 +18,7 @@ Faridabad, Haryana-121010</div>
 
 ## 💼 EXPERIENCE
 
-### *`Wipro Ltd.`
+### `Wipro Ltd.`
 | Client | Job Profile | Tenure |
 | --- | --- | --- |
 |HP(Hewlett Packard)|Printer Support to American Region|August 2014 to August 2015|
@@ -32,7 +32,7 @@ Faridabad, Haryana-121010</div>
 and persuasive approach.
 
 
-### * `Interglobe Aviation Ltd.`
+###  `Interglobe Aviation Ltd.`
 |   Job profile   |   Department   |   Tenure    |
 | ------ | ------ | - |
 |Customer Service Officer|Ground Operations|January 2018 to August 2018|
