@@ -20,12 +20,11 @@
 </p>
 
 
-
+  
 ### `Wipro Ltd.`
 | Client | Job Profile | Tenure |
 | --- | --- | --- |
 |HP(Hewlett Packard)|Printer Support to American Region|August 2014 to August 2015|
-
 
 
 
@@ -50,7 +49,7 @@ and persuasive approach.
 *****************************
 
 <p>
-  <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
+  <img width="300" align='right' src="https://github.com/shubhambhaskarr/shubhambhaskarr/blob/main/Education_chalk_board.jpg"></a>
 </p>
 
 ## 🎓EDUCATION AND TRAINING
@@ -68,13 +67,4 @@ and persuasive approach.
 >Frankfinn, C-12, 2 nd Floor, Opposite Metro Pillar No. 414, Vishal Enclave,
 Rajouri Garden, New Delhi- 110027
  
-
-
-
-
-## ⚓ INTERESTS
-
-  * 📘Reading
-  * 🎵Music
-  * :bicyclist:Fitness
       
