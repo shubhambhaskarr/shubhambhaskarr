@@ -14,6 +14,9 @@
 >Enthusiastic individual eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Motivated to learn, grow and excel in IT Industry.
 
 *******************
+<p>
+  <img width="300" align='right' src="https://github.com/shubhambhaskarr/shubhambhaskarr/blob/main/Education_chalk_board.jpg"></a>
+</p>
 
 <p>
   <img width="250" align='left' src="https://github.com/shubhambhaskarr/shubhambhaskarr/blob/main/work-experience-note-pinboard.jpg?raw=true">
