@@ -1,4 +1,4 @@
-# ![SB Header](https://github.com/shubhambhaskarr/shubhambhaskarr/blob/main/linux.jpeg)
+<img height="250" width="2000" src="https://github.com/shubhambhaskarr/shubhambhaskarr/blob/main/linux.jpeg?raw=true">
 <p align='center'>
 <a href="https://mail.google.com/mail/mu/mp/139/#co"><img height="30" src="https://github.com/shubhambhaskarr/shubhambhaskarr/blob/main/gmaillogo.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/shubham_bhaskarr/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
@@ -7,7 +7,7 @@
 </p>
 
 
-## <div align="right"> Shubham Bhaskar
+## *Hey this is Shubham*
 
 <div align="right">:e-mail:shubham.bhaskar15@gmail.com</div>
 
