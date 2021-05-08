@@ -36,11 +36,11 @@
 
   
 * ## *`Wipro Ltd.`* 💼
+
+
 | Client | Job Profile | Tenure |
 | --- | --- | --- |
 |HP(Hewlett Packard)|Printer Support to American Region|August 2014 to August 2015|
-
-
 
 
 * ### *Responsibilities*
