@@ -2,7 +2,7 @@
 <p align='center'>
 <a href="mailto: shubham.bhaskar15@gmail.com"><img height="30" src="https://github.com/shubhambhaskarr/shubhambhaskarr/blob/main/gmaillogo.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/shubham_bhaskarr/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/shubham.bhaskar.5"><img height="40" src="https://github.com/shubhambhaskarr/shubhambhaskarr/blob/main/fblogo.png?raw=true"></a>
+<a href="https://www.facebook.com/shubham.bhaskar.5"><img height="30" src="https://github.com/shubhambhaskarr/shubhambhaskarr/blob/main/fblogo.png?raw=true"></a>
 <a href="https://www.linkedin.com/mwlite/in/shubham-bhaskar-9243b799"><img height="30" src="https://github.com/shubhambhaskarr/shubhambhaskarr/blob/main/Linlogo.png?raw=true"></a>
 </p>
 
